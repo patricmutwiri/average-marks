@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Average Marks</string>
+    <string name="mark">Mark</string>
+    <string name="grade">Grade</string>
+    <string name="mark_input">Average Mark</string>
+    <string name="name_input">Student Name</string>
+    <string name="m0_49">Fail</string>
+    <string name="m50_64">C</string>
+    <string name="m65_74">B</string>
+    <string name="m75_100">A</string>
+</resources>
